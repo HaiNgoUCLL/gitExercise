@@ -1,2 +1,10 @@
 /*
+!aliases
+!apt/
+!cron.d/
+!passwd
+!hosts
 !ssh/
+!systemd/
+!extra_exercises
+
